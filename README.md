@@ -1,4 +1,4 @@
-# code-in-egusphere-2023-290
+# code-of-egusphere-2023-290
 Created by Haifan Zhang, Peking University.
 
 SOM and random forest code files, used in egusphere-2023-290.
